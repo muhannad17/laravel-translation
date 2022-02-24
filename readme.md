@@ -15,6 +15,8 @@ Translation management for your Laravel application.
 
 ------
 
+## This package is a fork from (https://github.com/joedixon/laravel-translation)
+
 ## About Laravel Translation
 
 Laravel Translation is a package for Laravel 5 which allows you full control
