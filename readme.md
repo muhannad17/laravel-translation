@@ -15,7 +15,7 @@ Translation management for your Laravel application.
 
 ------
 
-## This package is a fork from (https://github.com/joedixon/laravel-translation)
+## This repo is a fork from (https://github.com/joedixon/laravel-translation) to fix compatibility issues with PHP8+.
 
 ## About Laravel Translation
 
