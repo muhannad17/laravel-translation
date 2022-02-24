@@ -59,9 +59,9 @@ class TranslationServiceProvider extends ServiceProvider
     {
         $this->loadViewsFrom(__DIR__.'/../resources/views', 'translation');
 
-        $this->publishes([
+        /*$this->publishes([
             __DIR__.'/../resources/views' => resource_path('views/vendor/translation'),
-        ]);
+        ]);*/
     }
 
     /**
@@ -127,9 +127,9 @@ class TranslationServiceProvider extends ServiceProvider
     {
         $this->loadTranslationsFrom(__DIR__.'/../resources/lang', 'translation');
 
-        $this->publishes([
+        /*$this->publishes([
             __DIR__.'/../resources/lang' => resource_path('lang/vendor/translation'),
-        ]);
+        ]);*/
     }
 
     /**
