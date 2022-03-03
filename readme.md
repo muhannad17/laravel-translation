@@ -171,4 +171,3 @@ translation:sync-missing-translation-keys
 This command will scan your project (using the paths supplied in the
 configuration file) and create all the missing translation keys. This can be
 run for all languages or a single language.
-
