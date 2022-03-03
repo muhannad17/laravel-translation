@@ -169,6 +169,6 @@ language files and insert them in to the database.
 translation:sync-missing-translation-keys
 ```
 This command will scan your project (using the paths supplied in the
-configuration file) and create all of the missing translation keys. This can be
+configuration file) and create all the missing translation keys. This can be
 run for all languages or a single language.
 
